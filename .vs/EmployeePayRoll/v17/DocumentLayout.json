@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\employeepayroll\\employeepayroll\\views\\employee\\getbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|solutionrelative:employeepayroll\\views\\employee\\getbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\employeepayroll\\employeepayroll\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|solutionrelative:employeepayroll\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\employeepayroll\\employeepayroll\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|solutionrelative:employeepayroll\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\employeepayroll\\employeepayroll\\views\\employee\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CF734E-04F0-4E01-978A-4F6F717990ED}|EmployeePayRoll\\EmployeePayRoll.csproj|solutionrelative:employeepayroll\\views\\employee\\searchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C7FB46-C826-4B2E-812A-CD6188F4A5DE}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\employeepayroll\\repositorylayer\\services\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C7FB46-C826-4B2E-812A-CD6188F4A5DE}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\services\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetByName.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Views\\Employee\\GetByName.cshtml",
+              "RelativeDocumentMoniker": "EmployeePayRoll\\Views\\Employee\\GetByName.cshtml",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Views\\Employee\\GetByName.cshtml",
+              "RelativeToolTip": "EmployeePayRoll\\Views\\Employee\\GetByName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T06:00:05.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeePayRoll\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeePayRoll\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T17:43:48.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeePayRoll\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeePayRoll\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAA+wMYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:50:19.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRL.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\RepositoryLayer\\Services\\EmployeeRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Services\\EmployeeRL.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\RepositoryLayer\\Services\\EmployeeRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Services\\EmployeeRL.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAAoBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:03:18.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchByName.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Views\\Employee\\SearchByName.cshtml",
+              "RelativeDocumentMoniker": "EmployeePayRoll\\Views\\Employee\\SearchByName.cshtml",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\EmployeePayRoll\\EmployeePayRoll\\Views\\Employee\\SearchByName.cshtml",
+              "RelativeToolTip": "EmployeePayRoll\\Views\\Employee\\SearchByName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T05:04:24.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

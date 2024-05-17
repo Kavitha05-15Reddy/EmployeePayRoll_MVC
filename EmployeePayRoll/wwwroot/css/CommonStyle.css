@@ -1,0 +1,38 @@
+﻿.row {
+    margin-left: 15px;
+    padding-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    max-width: 1000px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    text-align: center;
+    color: #4800ff;
+}
+.form-control {
+    padding: 10px;
+    border: 1.5px solid #ccc;
+    border-radius: 4px;
+}
+.btn-primary {
+    background-color: #4800ff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.back-to-list {
+    display: block;
+    margin-top: 20px;
+    color: #4800ff;
+    text-decoration: none;
+}
+.back-to-list:hover {
+     text-decoration: underline;
+}
+
+
